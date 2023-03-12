@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\bin\Debug\net6.0\exampleDictionary.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\bin\Debug\net6.0\exampleDictionary.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\bin\Debug\net6.0\exampleDictionary.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\bin\Debug\net6.0\exampleDictionary.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\bin\Debug\net6.0\exampleDictionary.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\exampleDictionary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\exampleDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\exampleDictionary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\exampleDictionary.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\exampleDictionary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\exampleDictionary.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\refint\exampleDictionary.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\exampleDictionary.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\exampleDictionary.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleDictionary\exampleDictionary\obj\Debug\net6.0\ref\exampleDictionary.dll
